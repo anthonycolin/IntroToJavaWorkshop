@@ -21,7 +21,7 @@ joe.penDown();
         
 	
 			
-		joe.turn(360/3);
+		joe.turn(360/7);
 	
 			
 	
